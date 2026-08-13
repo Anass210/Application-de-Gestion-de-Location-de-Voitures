@@ -47,14 +47,15 @@ Cette interface permet de créer et consulter les contrats de location associés
 
 ---
 
-### 💰 Gestion des factures
-Cette interface permet de gérer les factures liées aux locations et de suivre les paiements.
-
-![Gestion des factures](screenshots/7.png)
-
----
-
 ### 🔄 Gestion des retours
 Cette interface permet d'enregistrer le retour d'un véhicule et de mettre à jour son état et sa disponibilité.
 
 ![Gestion des retours](screenshots/7.png)
+---
+
+### 💰 Gestion des factures
+Cette interface permet de gérer les factures liées aux locations et de suivre les paiements.
+
+![Gestion des factures](screenshots/8.png)
+
+
