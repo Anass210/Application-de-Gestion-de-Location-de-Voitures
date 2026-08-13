@@ -57,4 +57,4 @@ Cette interface permet de gérer les factures liées aux locations et de suivre 
 ### 🔄 Gestion des retours
 Cette interface permet d'enregistrer le retour d'un véhicule et de mettre à jour son état et sa disponibilité.
 
-![Gestion des retours](screenshots/retours.png)
+![Gestion des retours](screenshots/7.png)
