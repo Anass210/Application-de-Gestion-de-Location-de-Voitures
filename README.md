@@ -1,2 +1,4 @@
 # Application-de-Gestion-de-Location-de-Voitures
-Application développée en C# permettant la gestion des clients, véhicules, réservations, contrats, factures et retours.
+Le code source complet n'est pas disponible publiquement.
+Pour obtenir le projet ou discuter d'une collaboration, contactez-moi directement sur WhatsApp.
++212 0781506265
